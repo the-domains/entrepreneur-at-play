@@ -1,0 +1,28 @@
+name: Entrepreneur At PLAY
+favicon: null
+layout_spectrum: 0.42790245614014566
+typography_spectrum: 0.11208088183775544
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.08051398070529103
+  lightness: 0.10590450745075941
+  saturation: 0.05999202444218099
+  rhythmicContrast: 0.08609268348664045
+purpose: []
